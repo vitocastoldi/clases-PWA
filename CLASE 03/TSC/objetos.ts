@@ -74,3 +74,6 @@ const listaAlumn : Alumno[]=[];//una lista que solo permita objetos de tipo alum
 
 listaAlumn.push(alumno1,alumno2)
 //listaAlumn.push({nombre:"Ana"}) //limitar que tipo de objetos agregar a una lista
+
+//con TYPE creamos el molde (primera letra en mayuscula)
+//creamos el objeto en base a ese molde
