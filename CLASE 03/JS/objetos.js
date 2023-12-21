@@ -35,3 +35,9 @@ const alumno2 = {
 const listaAlumn = []; //una lista que solo permita objetos de tipo alumno
 listaAlumn.push(alumno1, alumno2);
 //listaAlumn.push({nombre:"Ana"}) //limitar que tipo de objetos agregar a una lista
+//RESUMEN
+//con TYPE creamos el molde (primera letra en mayuscula)
+//creamos el objeto en base a ese molde
+//mod. de acceso
+//readonly limitamos que no nos permita modificar el valor de una propiedad o un objeto
+//si tiene public o ningun modificador de acceso, me va a permitir modificar su contenido
